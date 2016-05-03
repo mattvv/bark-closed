@@ -1,0 +1,35 @@
+body {
+  font-family: Tahoma, 'Helvetica Neue', Helvetica;
+  font-weight: normal;
+  background: #25313E;
+  border-top: 3px solid #05a7f0;
+  margin: 0px 0px 0px 0px;
+}
+
+p {
+  color: white;
+  width: 500px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.thanks {
+  margin-top: 150px;
+}
+
+a {
+  color: white;
+}
+
+.span, .text {
+    vertical-align:middle;
+    display:table-cell;
+}
+h1 {
+    display:table;
+    width:200px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
